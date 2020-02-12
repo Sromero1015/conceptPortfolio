@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(41, 41, 41);
+    background-image: url(../images/background-2426328_1280.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;   
+}
+
+#display {
+    background: rgba(215, 215, 215, 0.3);
+}
